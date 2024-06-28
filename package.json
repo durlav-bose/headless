@@ -1,0 +1,21 @@
+{
+  "name": "headless-gl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.19.2",
+    "gl": "^8.0.2",
+    "jsdom": "^24.1.0",
+    "node-canvas-webgl": "^0.3.0",
+    "three": "^0.166.0",
+    "three.js": "^0.77.1"
+  }
+}
